@@ -30,7 +30,7 @@ div{
 }
 
 .parallax-bg1 {
-    background-image: url('image4.jpg'); /* here I have add images from my files*/
+    background-image: url('https://www.adorama.com/alc/wp-content/uploads/2022/07/jakob-owens-KfMj3fi4R4s-unsplash.jpg'); /* here I have add images from my files*/
     height: 120%; 
     background-attachment: fixed;
     background-position: center;
@@ -44,7 +44,7 @@ div{
 }
 
 .parallax-bg2 {
-    background-image: url('image2.jpg');/* here I have add images from my files*/ 
+    background-image: url('https://audiosocketblog.b-cdn.net/wp-content/uploads/2021/09/90787e30-c9d3-b36d-47c4-2c3c84a93015.jpg');/* here I have add images from my files*/ 
     height: 120%; 
     background-attachment: fixed;
     background-position: center;
