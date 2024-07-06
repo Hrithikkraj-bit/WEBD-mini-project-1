@@ -30,7 +30,7 @@ div{
 }
 
 .parallax-bg1 {
-    background-image: url('image4.jpg'); 
+    background-image: url('image4.jpg'); /* here I have add images from my files*/
     height: 120%; 
     background-attachment: fixed;
     background-position: center;
@@ -44,7 +44,7 @@ div{
 }
 
 .parallax-bg2 {
-    background-image: url('image2.jpg'); 
+    background-image: url('image2.jpg');/* here I have add images from my files*/ 
     height: 120%; 
     background-attachment: fixed;
     background-position: center;
